@@ -6,7 +6,7 @@
 <head>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Titan+One&family=Rubik">
     <meta charset="utf-8" />
-    <title>Block Buster - Level 1</title>
+    <title>Block Buster - Level 2</title>
 </head>
   <body style="background-color: #A01B40">
 	<div  id="heading" >
